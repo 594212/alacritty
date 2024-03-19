@@ -1,0 +1,7 @@
+[keyboard]
+bindings = [ 
+  { key = "N", mods = "Control|Shift", action = "CreateNewWindow" },
+  { key = "L", mods = "Control|Shift", chars = "l" },
+ # { chars = "\u001B[13;5u", key = "Return", mods = "Control" },
+ # { chars = "\u001B[13;2u",key = "Return", mods = "Shift" },
+]
